@@ -1,7 +1,7 @@
 forcers
 =======
 
-Windows 7/Vista/8/10 64-bit driver for the Actlabs ForceRS force feedback wheel
+Windows 7/Vista/8/10(?) 64-bit driver for the Actlabs ForceRS force feedback wheel
 
 Refer to the ForceRS Driver Installation v1.5.pdf file for installation instructions
 
